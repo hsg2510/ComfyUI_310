@@ -1,3 +1,6 @@
 [submodule "custom_nodes/contents-cui-mediapipe-generator"]
 	path = custom_nodes/contents-cui-mediapipe-generator
 	url = git@oss.navercorp.com:video-division/contents-cui-mediapipe-generator.git
+[submodule "custom_nodes/contents-cui-ksl-nodes"]
+	path = custom_nodes/contents-cui-ksl-nodes
+	url = git@oss.navercorp.com:video-division/contents-cui-ksl-nodes.git
